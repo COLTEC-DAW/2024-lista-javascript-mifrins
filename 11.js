@@ -24,7 +24,7 @@ class classe2{
     constructor(valor) {
         this.valor = valor;
         this.numero = valor;
-        this.quantidade = valor
+        this.quantia = valor;
     }
 }
 
